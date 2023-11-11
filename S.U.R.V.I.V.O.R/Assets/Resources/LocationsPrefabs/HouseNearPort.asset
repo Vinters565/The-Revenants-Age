@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c73c94283b9401b97df2a11d9d26027, type: 3}
+  m_Name: HouseNearPort
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 0}
+  locationName: "\u0414\u043E\u043C \u043F\u0440\u0438 \u043F\u043E\u0440\u0442\u0443"
+  lootChance: 1
+  lootChancesList:
+  - title: AutumnJacket2D x1
+    item: {fileID: 4516473102163406835, guid: 665cdc136e6574449887b95662437833, type: 3}
+    weightChance: 1
+  - title: BaggedPants2D x1
+    item: {fileID: 8158615396856911813, guid: 38d08306106e9de4ba04db1d8efbc98a, type: 3}
+    weightChance: 1
+  - title: BlueShirt2D x1
+    item: {fileID: 1656208494776007267, guid: 5fcf1df867e2c10479c5ac42e51f74af, type: 3}
+    weightChance: 1
+  - title: Boots2D x1
+    item: {fileID: 941590746797923438, guid: fd02a5eecaf4e7d42ae62bedfca224a2, type: 3}
+    weightChance: 1
+  - title: GasMaskGP-5_2D x1
+    item: {fileID: 3561678270684398247, guid: ee8ad82b417aaef4ba82c7de295517af, type: 3}
+    weightChance: 1
+  - title: GreenTshir2D x1
+    item: {fileID: 5781295905215202093, guid: e70ca26ae9b256d4894daa79afc5e82c, type: 3}
+    weightChance: 1
+  - title: Jacket2D x1
+    item: {fileID: 6083670814665533581, guid: 69096a30b242b044eadb5735a8306d1c, type: 3}
+    weightChance: 1
+  - title: Keds2D x1
+    item: {fileID: 8373092053506878734, guid: 573809878e0679647ac871d1bf8a6148, type: 3}
+    weightChance: 1
+  - title: Maika2D x1
+    item: {fileID: 8575340857069258204, guid: 9a8e005f876427c4491c89e79ac55859, type: 3}
+    weightChance: 1
+  - title: Palto2D x1
+    item: {fileID: 129962712588660275, guid: 4b4ce1f17c0d09f4f9b0bd0e1eb2fd25, type: 3}
+    weightChance: 1
+  - title: SeverstroiJacket2D x1
+    item: {fileID: 9045934449858241011, guid: 5d32cd0384598cb4e8c338ac5b8f258c, type: 3}
+    weightChance: 1
+  - title: SeverstroiPants2D x1
+    item: {fileID: 7488798149180632989, guid: b2fedd02c7bffab48b183a9891abbb20, type: 3}
+    weightChance: 1
+  - title: SheepVest2D x1
+    item: {fileID: 9174660536676228277, guid: f58c93911ca99b442af6ea9fd12cbb92, type: 3}
+    weightChance: 1
+  - title: Shorts2D x1
+    item: {fileID: 4879383638088137723, guid: 9ed0af74a8a707148be9eeda4457afa5, type: 3}
+    weightChance: 1
+  - title: SimpleVest2D x1
+    item: {fileID: 6084881807024158555, guid: 62cfca6abff8a5d409134be2f26b3da5, type: 3}
+    weightChance: 1
+  - title: TourBackpack2D x1
+    item: {fileID: 2266476232901667395, guid: a3f4498dfa5c4ac47bca4ffe3033dcac, type: 3}
+    weightChance: 1
+  - title: Trousers2D x1
+    item: {fileID: 5311119632425914046, guid: b07bf89807b9a4a478973b413cb4c0d0, type: 3}
+    weightChance: 1
+  - title: Ushanka2D x1
+    item: {fileID: 947778837636009555, guid: 86bb509e5b4edb448824ced1ae7f7835, type: 3}
+    weightChance: 1
+  fightChance: 0
+  fightChancesList:
+  - fightInfo: {fileID: 11400000, guid: 4692f961b4dd3174d831a38801aaa40a, type: 2}
+    weightChance: 1
+  eventChance: 0
+  eventChancesList: []

@@ -1,0 +1,138 @@
+{
+    "name": "InventoryInputSystem",
+    "maps": [
+        {
+            "name": "Inventory",
+            "id": "857c4dd4-4900-48c7-a0fc-caccb5381d34",
+            "actions": [
+                {
+                    "name": "FastMoving",
+                    "type": "Button",
+                    "id": "8e9b5356-c846-4b33-acc3-e18ed1831c7f",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "RotateItem",
+                    "type": "Button",
+                    "id": "67c74a2d-53dc-4b09-8fb6-c6591da7681a",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "FastMovingItemsSameType",
+                    "type": "Button",
+                    "id": "f73eb4e4-d387-425d-a2cd-c765efa35e2d",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "LeftButton",
+                    "type": "Button",
+                    "id": "7db747c9-994d-4771-a23a-9c335c512283",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "LB+Shift",
+                    "id": "e51693a0-0e53-427e-8268-edea1d5107d1",
+                    "path": "OneModifier",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "FastMoving",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "modifier",
+                    "id": "58250ac4-662a-449f-81b8-9d58cc9357da",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "FastMoving",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "binding",
+                    "id": "11396234-6025-40f9-831e-a2338bd1bc23",
+                    "path": "<Keyboard>/shift",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "FastMoving",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "",
+                    "id": "43aa775e-5a9f-4f88-9aa5-6c3558aa8196",
+                    "path": "<Keyboard>/r",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "RotateItem",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "Ctrl+LB",
+                    "id": "f41e9c08-9b16-4741-95cb-6ce42ec1d9fb",
+                    "path": "OneModifier",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "FastMovingItemsSameType",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "modifier",
+                    "id": "7e5096f6-cbd2-4266-9713-1ffa360055bc",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "FastMovingItemsSameType",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "binding",
+                    "id": "2df7183e-6e69-4c44-9efc-ff8fce11ccfd",
+                    "path": "<Keyboard>/ctrl",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "FastMovingItemsSameType",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "",
+                    "id": "a59b871f-67f2-434a-93d2-911276c27b3f",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "LeftButton",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

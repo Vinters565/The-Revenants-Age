@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: bd013c5834982404c939a8bea15ef6de
+  - enabled: 1
+    path: Assets/Scenes/GlobalMap.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Debug/FightScene.unity
+    guid: 545b8246fc9424b4e9582fc3c2c4e9c7
+  - enabled: 1
+    path: Assets/Scenes/DeadScene.unity
+    guid: da79f1c5b1ec1734d89074aceed30473
+  - enabled: 1
+    path: Assets/Scenes/Apartment1.unity
+    guid: 00e16e0f680d6b044970dc518ba0d2c6
+  - enabled: 1
+    path: Assets/Scenes/FightScene.unity
+    guid: c462071d9010f4c49ba35aee18cfeb79
+  - enabled: 1
+    path: Assets/Scenes/StaticFightElements.unity
+    guid: 271fb2c9b9e1f7944aba73c0bd2a310c
+  m_configObjects: {}

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab73b35cd7634a54f8400042b47277fb, type: 3}
+  m_Name: 762_Ammo
+  m_EditorClassIdentifier: 
+  <ResourcesPath>k__BackingField: Items/Weapons/Ak-74M/Magazine/762_Ammo
+  <Path>k__BackingField: Assets/Resources/Items/Weapons/Ak-74M/Magazine/762_Ammo.asset
+  keneeticDamage: 0.353
+  armorPenetratingChance: 0.629
+  underArmorDamage: 0.635
+  upperArmorDamage: 0.796
+  fullDamage: 45
+  bleedingChance: 0.336
+  boneBrokingChance: 0.24
+  armorDamageOnPenetration: 5
+  armorDamageOnNonPenetration: 8
+  deltaOptimalFireDistanceBegin: 0
+  deltaOptimalFireDistanceEnd: 0
+  deltaSpreadSizeOnOptimalFireDistance: 0
+  recoil: 0
+  amountOfBullets: 1
+  caliber: 0
+  typeOfSingleAmmo: "\u041F\u041F"

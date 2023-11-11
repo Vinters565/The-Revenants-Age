@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MakarovWeaponAnimation
+  m_Controller: {fileID: 9100000, guid: 25779225152b1c947814eeab6e5312c4, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 691fbc59e7856a04ea0cd693b4ccf984, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 2dc1bff7924fef0429dd90a6b81034a2, type: 2}

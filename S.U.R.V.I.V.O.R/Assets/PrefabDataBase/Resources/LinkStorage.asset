@@ -1,0 +1,342 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a5f8d1c5c9449f48bfb131e4cc0637f, type: 3}
+  m_Name: LinkStorage
+  m_EditorClassIdentifier: 
+  data:
+  - guid: 304535a63b18e384798e2fdbc0264cfa
+    address: Kotelok
+    resourcesPath: Items/Scraps/Kotelok/Kotelok
+  - guid: b8bd2dbbc782d71468d02ae9c9e3106e
+    address: AS-01
+    resourcesPath: Items/GunModules/Scopes/AS-01/AS-01
+  - guid: 5fcf1df867e2c10479c5ac42e51f74af
+    address: BlueShirt2D
+    resourcesPath: Items/Clothes/BlueShirt/BlueShirt2D
+  - guid: a39b72e47efe32b4c9085ce0edc39692
+    address: Matras
+    resourcesPath: Items/Scraps/Matras/Matras
+  - guid: ea01cd02a13c1e74a88bef3a49866f64
+    address: WinterHat2D
+    resourcesPath: Items/Clothes/WinterHat/WinterHat2D
+  - guid: b4793db83afa0114d97803e2fcf5bb38
+    address: Salewa_2D
+    resourcesPath: Items/Medicine/SalewaFirstAid/Salewa_2D
+  - guid: f957be7fec7aa2345a9f2654b097d0ce
+    address: Bandage_2D
+    resourcesPath: Items/Medicine/Bandage/Bandage_2D
+  - guid: eea3355978b9d7748b95b44335a0d1b0
+    address: BaggedPants3D
+    resourcesPath: Items/Clothes/BaggedPants/BaggedPants3D
+  - guid: ad00c86b81342f747a9c051e4a4d4d6f
+    address: 12Caliber
+    resourcesPath: Items/Ammo/12Cal/12Caliber
+  - guid: 069bd23ceb866f94883833dda5a79354
+    address: Heburek
+    resourcesPath: Items/Food/Heburek/Heburek
+  - guid: 89e67a7268ea4fb4c86c0cdb1aabae0a
+    address: Ak-74M_Mag2D
+    resourcesPath: Items/Weapons/Ak-74M/Magazine/Ak-74M_Mag2D
+  - guid: b698c6079fdf87747bc52cb6b642497c
+    address: BigMedkit
+    resourcesPath: Items/Medicine/BigMedKit/BigMedkit
+  - guid: 7dfc23a3a95a82a498f8a0983c9e8f2d
+    address: Lighter
+    resourcesPath: Items/Scraps/Lighter/Lighter
+  - guid: cc5e7682c5c94ab43b821e1cf2b429dc
+    address: Makarov3D
+    resourcesPath: Items/Weapons/Makarov/Makarov3D
+  - guid: 0b8d92835dcd31544a2425f5a2302e00
+    address: Ak-74M2D
+    resourcesPath: Items/Weapons/Ak-74M/Ak-74M2D
+  - guid: 027c045cacf54144f9b6e08e8e86b299
+    address: Pin
+    resourcesPath: Items/Scraps/Pin/Pin
+  - guid: a0a7219616256fb4686e0e783dda5697
+    address: Ushanka3D
+    resourcesPath: Items/Clothes/Ushanka/Ushanka3D
+  - guid: fadf4c1faa74b3a439b5b586cf6e8412
+    address: Cucumber
+    resourcesPath: Items/Food/Cucumber/Cucumber
+  - guid: 9a8e005f876427c4491c89e79ac55859
+    address: Maika2D
+    resourcesPath: Items/Clothes/Maika/Maika2D
+  - guid: d5c32eece90e68649998af101bae5bf2
+    address: CraftedBandage
+    resourcesPath: Items/Medicine/CraftedBandage/CraftedBandage
+  - guid: 94a63159a92e3b241bc5905ccc38ccc8
+    address: DefaultCharacter2D
+    resourcesPath: Characters/DefaultCharacter2D
+  - guid: d49f7db98cb610946be1153afa48d5a9
+    address: Svekla
+    resourcesPath: Items/Food/Svekla/Svekla
+  - guid: 5029a11932482974594abef04856a722
+    address: Scrap
+    resourcesPath: Items/Scraps/Scrap/Scrap
+  - guid: e6f5053e863a8844d942129419704472
+    address: Vityaz2D
+    resourcesPath: Items/Weapons/Vityaz/Vityaz2D
+  - guid: 547b866d349cc9d4a823649304b74718
+    address: ClothPiece
+    resourcesPath: Items/Scraps/ClothPiece/ClothPiece
+  - guid: 803c0a90db0565f4c9b785f44634a912
+    address: Salami
+    resourcesPath: Items/Food/Salami/Salami
+  - guid: e70ca26ae9b256d4894daa79afc5e82c
+    address: GreenTshir2D
+    resourcesPath: Items/Clothes/GreenTshirt/GreenTshir2D
+  - guid: 8baa77a7eea3e064ba4b9d7168a9e56a
+    address: Skovoroda
+    resourcesPath: Items/Scraps/Skovoroda/Skovoroda
+  - guid: 233b0b9ebb9973a46a0e53a22d109369
+    address: OpenedPork2D
+    resourcesPath: Items/Food/OpenedPork/OpenedPork2D
+  - guid: ec620f8b449e82c43bb015e19ac45482
+    address: Saiga122D
+    resourcesPath: Items/Weapons/Saiga12/Saiga122D
+  - guid: a4e9874bc1ff3cb48acc98fa1e39a53d
+    address: Bread
+    resourcesPath: Items/Food/Bread/Bread
+  - guid: 0c716b4b6cc96994092f528a06a93c9e
+    address: Scotch
+    resourcesPath: Items/Scraps/Scotch/Scotch
+  - guid: 028abd95f7c9c4e4fabac5d234ae512c
+    address: Gear
+    resourcesPath: Items/Scraps/Gear/Gear
+  - guid: 66bf4f976b18caf4e9e82920ec5dc5e9
+    address: Jacket3D
+    resourcesPath: Items/Clothes/Jacket/Jacket3D
+  - guid: 16a5678dbb1d1f445ba871934a9d1a81
+    address: Cup
+    resourcesPath: Items/Scraps/Cup/Cup
+  - guid: fb34a11261346c444954f2356b8057e5
+    address: Spoon
+    resourcesPath: Items/Scraps/Spoon/Spoon
+  - guid: a2a67436e2a03f343a63ec994fbb8ed3
+    address: Suppressor
+    resourcesPath: Items/GunModules/Supressors/Nikola/Suppressor
+  - guid: a6071635685fa084699bbd10be8bf0bf
+    address: AutumnJacket3D
+    resourcesPath: Items/Clothes/AutumnJacket/AutumnJacket3D
+  - guid: d0c13b37de2f8b045a4952adfbcbc65f
+    address: TourBackpack3D
+    resourcesPath: Items/Clothes/TourBackpack/TourBackpack3D
+  - guid: 8c546f0bf41ec4e4f9060c944c150418
+    address: Saiga12_Mag2D
+    resourcesPath: Items/Weapons/Saiga12/Magazine/Saiga12_Mag2D
+  - guid: 38d08306106e9de4ba04db1d8efbc98a
+    address: BaggedPants2D
+    resourcesPath: Items/Clothes/BaggedPants/BaggedPants2D
+  - guid: 35d90080ff0819f43bf1f7ebb0064882
+    address: Tire
+    resourcesPath: Items/Medicine/Tire/Tire
+  - guid: 87894978b5b120c48b8981b047e355d6
+    address: TableLamp
+    resourcesPath: Items/Scraps/TableLamp/TableLamp
+  - guid: 6c97f2208e600f441b2dae43e54a7d20
+    address: Saiga12_Mag3D
+    resourcesPath: Items/Weapons/Saiga12/Magazine/Saiga12_Mag3D
+  - guid: 459dea3df3f4f164ab0de7691535d16d
+    address: Wood
+    resourcesPath: Items/Scraps/Wood/Wood
+  - guid: 0efb9aab1ad32774d9f5f79f6f5f8e04
+    address: Group
+    resourcesPath: Group/Group
+  - guid: b10b9553c7d3a7541a2f79aa4562a146
+    address: Tape
+    resourcesPath: Items/Scraps/Tape/Tape
+  - guid: a3f4498dfa5c4ac47bca4ffe3033dcac
+    address: TourBackpack2D
+    resourcesPath: Items/Clothes/TourBackpack/TourBackpack2D
+  - guid: 0c1250cdd1978654ab77d8944038b4b2
+    address: OpenedSaira
+    resourcesPath: Items/Food/OpenedSaira/OpenedSaira
+  - guid: 69096a30b242b044eadb5735a8306d1c
+    address: Jacket2D
+    resourcesPath: Items/Clothes/Jacket/Jacket2D
+  - guid: b6b8fb855f6515440a73217ebfbff448
+    address: Makarov_Mag_2D
+    resourcesPath: Items/Weapons/Makarov/Magazine/Makarov_Mag_2D
+  - guid: b556e762eed976f41b2cbcd8b7ea3e60
+    address: Odeyalo
+    resourcesPath: Items/Scraps/Odeyalo/Odeyalo
+  - guid: bd52a7ae77c11cb4595ddee8a03d2bec
+    address: Luk
+    resourcesPath: Items/Food/Luk/Luk
+  - guid: 76e871ea15caaa14284a6cd2cb296882
+    address: BlueShirt3D
+    resourcesPath: Items/Clothes/BlueShirt/BlueShirt3D
+  - guid: a134ee34959a41b41a77dcd0b910d6e8
+    address: Shorts3D
+    resourcesPath: Items/Clothes/Shorts/Shorts3D
+  - guid: 787ec9e84aea53244a3e1bfb1eabd2fb
+    address: Makarov_Mag_3D
+    resourcesPath: Items/Weapons/Makarov/Magazine/Makarov_Mag_3D
+  - guid: 087b043fd12a88a4ca8fa4774c86fbd9
+    address: Keds3D
+    resourcesPath: Items/Clothes/Keds/Keds3D
+  - guid: 303e1373546d6f74787bb1ad330dcd97
+    address: Cactus
+    resourcesPath: Items/Scraps/Cactus/Cactus
+  - guid: ee8ad82b417aaef4ba82c7de295517af
+    address: GasMaskGP-5_2D
+    resourcesPath: Items/Clothes/GasMaskGP-5/GasMaskGP-5_2D
+  - guid: c0341d8b599d0844dbbe78285885e74f
+    address: Carrot
+    resourcesPath: Items/Food/Carrot/Carrot
+  - guid: b5f3c2578853e1744b3bbe2bcd154e1c
+    address: SeverstroiPants3D
+    resourcesPath: Items/Clothes/SeverstroiPants/SeverstroiPants3D
+  - guid: f5acf8d6d49729b469cb1438fa361fd0
+    address: SimpleVest3D
+    resourcesPath: Items/Clothes/SimpleVest/SimpleVest3D
+  - guid: 09faf0b5d60c48d42a570bf015c4e348
+    address: Vityaz3D
+    resourcesPath: Items/Weapons/Vityaz/Vityaz3D
+  - guid: fd02a5eecaf4e7d42ae62bedfca224a2
+    address: Boots2D
+    resourcesPath: Items/Clothes/Boots/Boots2D
+  - guid: 802e3318c45bda1429de16db5a12cb94
+    address: GreeenSyringe
+    resourcesPath: Items/Medicine/GreenSyringe/GreeenSyringe
+  - guid: 9ed0af74a8a707148be9eeda4457afa5
+    address: Shorts2D
+    resourcesPath: Items/Clothes/Shorts/Shorts2D
+  - guid: 665cdc136e6574449887b95662437833
+    address: AutumnJacket2D
+    resourcesPath: Items/Clothes/AutumnJacket/AutumnJacket2D
+  - guid: 41c94ab459a90544c8f370198a974915
+    address: SeverstroiJacket3D
+    resourcesPath: Items/Clothes/SeverstroiJacket/SeverstroiJacket3D
+  - guid: 5d32cd0384598cb4e8c338ac5b8f258c
+    address: SeverstroiJacket2D
+    resourcesPath: Items/Clothes/SeverstroiJacket/SeverstroiJacket2D
+  - guid: b9e2cdf43fdbfde4e9cb60fb8aba3ce2
+    address: WinterHat3D
+    resourcesPath: Items/Clothes/WinterHat/WinterHat3D
+  - guid: e5eee67adbea1a5439b087df32adfd13
+    address: Rope
+    resourcesPath: Items/Scraps/Rope/Rope
+  - guid: 855410d80ce93f7489cff9b1f3267eb3
+    address: GreenTshir3D
+    resourcesPath: Items/Clothes/GreenTshirt/GreenTshir3D
+  - guid: 9e9506c2caf87684391b3f92b41725ae
+    address: Ak-74M_Mag3D
+    resourcesPath: Items/Weapons/Ak-74M/Magazine/Ak-74M_Mag3D
+  - guid: 3d31fe2fef657b3469f2c65d83b44357
+    address: Vityaz Mag
+    resourcesPath: Items/Weapons/Vityaz/Magazines/Vityaz Mag
+  - guid: b07bf89807b9a4a478973b413cb4c0d0
+    address: Trousers2D
+    resourcesPath: Items/Clothes/Trousers/Trousers2D
+  - guid: 62cfca6abff8a5d409134be2f26b3da5
+    address: SimpleVest2D
+    resourcesPath: Items/Clothes/SimpleVest/SimpleVest2D
+  - guid: 5297bfef59d8cc2499d5a831d9269db5
+    address: Sosiski
+    resourcesPath: Items/Food/Sosiski/Sosiski
+  - guid: 8d37c717a2906634a90751303a48950f
+    address: Solenia
+    resourcesPath: Items/Food/Solenia/Solenia
+  - guid: c5b0087af3e7276439a67e60ac396cb0
+    address: 9x19PPBox
+    resourcesPath: Items/Ammo/9x19 Luger/PP/Box/9x19PPBox
+  - guid: 4eea3035941f4524189814e521011b0b
+    address: Maika3D
+    resourcesPath: Items/Clothes/Maika/Maika3D
+  - guid: efafba45898e1a0409d133af0c69e0a7
+    address: Axe2D
+    resourcesPath: Items/Weapons/Axe/Axe2D
+  - guid: 5155847aed94cbd4d995e87b1b5c119a
+    address: C762Box
+    resourcesPath: Items/Ammo/C762/C762Box
+  - guid: b1283f7a15c8cad4eadb2ae7cebf2788
+    address: Makarov2D
+    resourcesPath: Items/Weapons/Makarov/Makarov2D
+  - guid: 6b1705a1df180dd43b84b73805192127
+    address: Axe3D
+    resourcesPath: Items/Weapons/Axe/Axe3D
+  - guid: 940e0a2ff70ea5e4ca3823817ecc3899
+    address: Soda
+    resourcesPath: Items/Food/Soda/Soda
+  - guid: 95e9fa0827b65834b95767099839f03a
+    address: SheepVest3D
+    resourcesPath: Items/Clothes/SheepVest/SheepVest3D
+  - guid: 251ebc9afd4a8344a93b6d4df80680a7
+    address: Boots3D
+    resourcesPath: Items/Clothes/Boots/Boots3D
+  - guid: 5b86e1e16a1b5fa44bfb5441ddcd0d06
+    address: Ak-74M3D
+    resourcesPath: Items/Weapons/Ak-74M/Ak-74M3D
+  - guid: 4461e4e1a7ab0f44a9b88cd6e086bc14
+    address: C9x18BoxTest
+    resourcesPath: Items/Ammo/C9x18/C9x18BoxTest
+  - guid: e515cd76c7d262a44bf7a1af663ef107
+    address: GoldenWatch
+    resourcesPath: Items/Scraps/GoldenWatch/GoldenWatch
+  - guid: f58c93911ca99b442af6ea9fd12cbb92
+    address: SheepVest2D
+    resourcesPath: Items/Clothes/SheepVest/SheepVest2D
+  - guid: 73c10154e6911604f877dae57f1a7d7c
+    address: Veshalka
+    resourcesPath: Items/Scraps/Veshalka/Veshalka
+  - guid: 35c1592ba1f92b04ca46eb5bf2020284
+    address: Potato
+    resourcesPath: Items/Food/Potato/Potato
+  - guid: 98a3e9d9ef320fb448cc3ecb321bfbdb
+    address: DefaultCharacter3D
+    resourcesPath: Characters/DefaultCharacter3D
+  - guid: 4681d9842fcb5004bbe115aa3e9fec84
+    address: Palto3D
+    resourcesPath: Items/Clothes/Palto/Palto3D
+  - guid: 816571671c189d74bb1abcc8bdd896ae
+    address: Fizrastvor
+    resourcesPath: Items/Medicine/Fizrastvor/Fizrastvor
+  - guid: 4e56ffcbd8b24a94daf3de788ddfd5f1
+    address: Saiga123D
+    resourcesPath: Items/Weapons/Saiga12/Saiga123D
+  - guid: 573809878e0679647ac871d1bf8a6148
+    address: Keds2D
+    resourcesPath: Items/Clothes/Keds/Keds2D
+  - guid: b2fedd02c7bffab48b183a9891abbb20
+    address: SeverstroiPants2D
+    resourcesPath: Items/Clothes/SeverstroiPants/SeverstroiPants2D
+  - guid: 5cccba5d1e0d52b46a91807c3a82facc
+    address: Lampochka
+    resourcesPath: Items/Scraps/Lampochka/Lampochka
+  - guid: c5239ce84d83e944fbb22a54545940e5
+    address: Tomato
+    resourcesPath: Items/Food/Tomato/Tomato
+  - guid: f707503e3bcd77e4780e18bb611ce7ea
+    address: GasMaskGP-5_3D
+    resourcesPath: Items/Clothes/GasMaskGP-5/GasMaskGP-5_3D
+  - guid: 2fef517b195679f46849e8167f5ffd03
+    address: DogMeshAndArmature (2)
+    resourcesPath: Enemies/Dog/DogMeshAndArmature (2)
+  - guid: 7c9a69316aac980499c9c44f4e794a63
+    address: BigSurgeonKit
+    resourcesPath: Items/Medicine/BigSurgeonKit/BigSurgeonKit
+  - guid: 86bb509e5b4edb448824ced1ae7f7835
+    address: Ushanka2D
+    resourcesPath: Items/Clothes/Ushanka/Ushanka2D
+  - guid: 51cd79419de33874fae4a9577bf7c350
+    address: Wire
+    resourcesPath: Items/Scraps/Wire/Wire
+  - guid: d4ddfb2f84a48804cb4921de57df4112
+    address: Trousers3D
+    resourcesPath: Items/Clothes/Trousers/Trousers3D
+  - guid: 50d13267322859b44a11d0221f939488
+    address: Kapusta
+    resourcesPath: Items/Food/Kapusta/Kapusta
+  - guid: 4b4ce1f17c0d09f4f9b0bd0e1eb2fd25
+    address: Palto2D
+    resourcesPath: Items/Clothes/Palto/Palto2D

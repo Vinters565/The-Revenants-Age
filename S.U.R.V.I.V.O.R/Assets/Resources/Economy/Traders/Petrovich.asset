@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f14c2f3dec3a4e56b81dc5ea3aa68b31, type: 3}
+  m_Name: Petrovich
+  m_EditorClassIdentifier: 
+  traderName: "\u041F\u0435\u0442\u0440\u043E\u0432\u0438\u0447"
+  itemsToSell:
+  - {fileID: 6212978433973705859, guid: 3d33523688f847a478bdb0f5c8a1239e, type: 3}
+  tradableCoef:
+    _serializedList:
+    - Key: 0
+      Value: 2
+    - Key: 1
+      Value: 2
+    - Key: 2
+      Value: 3
+  moneyType: 0

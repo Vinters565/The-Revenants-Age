@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c73c94283b9401b97df2a11d9d26027, type: 3}
+  m_Name: Test Location
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 665496302823761098, guid: f16446160f70930458cde30ef0a73a02, type: 3}
+  locationName: "\u0422\u0435\u0441\u0442\u043E\u0432\u0430\u044F \u043B\u043E\u043A\u0430\u0446\u0438\u044F"
+  lootChance: 1
+  lootChancesList:
+  - title: Makarov2D x1
+    item: {fileID: 3139536823874620355, guid: b1283f7a15c8cad4eadb2ae7cebf2788, type: 3}
+    weightChance: 1
+  - title: Axe2D x1
+    item: {fileID: 2309896335576601538, guid: efafba45898e1a0409d133af0c69e0a7, type: 3}
+    weightChance: 1
+  - title: Jacket2D x1
+    item: {fileID: -2477720989556718936, guid: 69096a30b242b044eadb5735a8306d1c, type: 3}
+    weightChance: 1
+  - title: Ak-74M_Mag2D x1
+    item: {fileID: 3070652330605260061, guid: 89e67a7268ea4fb4c86c0cdb1aabae0a, type: 3}
+    weightChance: 1
+  - title: Makarov_Mag_2D x1
+    item: {fileID: 5561457350441746244, guid: b6b8fb855f6515440a73217ebfbff448, type: 3}
+    weightChance: 1
+  - title: Ak-74M_Mag2D x1
+    item: {fileID: 3070652330605260061, guid: 89e67a7268ea4fb4c86c0cdb1aabae0a, type: 3}
+    weightChance: 1
+  fightChance: 0
+  fightChancesList: []
+  eventChance: 0
+  eventChancesList: []

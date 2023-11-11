@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c73c94283b9401b97df2a11d9d26027, type: 3}
+  m_Name: SimleHouse2
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 0}
+  locationName: "\u0414\u043E\u043C \u0441\u0442\u0430\u043B\u0438\u043D\u0441\u043A\u043E\u0433\u043E
+    \u0442\u0438\u043F\u0430"
+  lootChance: 1
+  lootChancesList:
+  - title: Matras x1
+    item: {fileID: 2409672275031097558, guid: a39b72e47efe32b4c9085ce0edc39692, type: 3}
+    weightChance: 1
+  - title: Odeyalo x1
+    item: {fileID: 1600767184302400738, guid: b556e762eed976f41b2cbcd8b7ea3e60, type: 3}
+    weightChance: 1
+  - title: Skovoroda x1
+    item: {fileID: 2415840867344266528, guid: 8baa77a7eea3e064ba4b9d7168a9e56a, type: 3}
+    weightChance: 1
+  - title: Tape x1
+    item: {fileID: 9221076599551373700, guid: b10b9553c7d3a7541a2f79aa4562a146, type: 3}
+    weightChance: 1
+  - title: Veshalka x1
+    item: {fileID: 3775947789782175138, guid: 73c10154e6911604f877dae57f1a7d7c, type: 3}
+    weightChance: 1
+  - title: Cucumber x1
+    item: {fileID: 1744103968082365573, guid: fadf4c1faa74b3a439b5b586cf6e8412, type: 3}
+    weightChance: 1
+  - title: Carrot x1
+    item: {fileID: 38898679506053280, guid: c0341d8b599d0844dbbe78285885e74f, type: 3}
+    weightChance: 1
+  - title: Luk x1
+    item: {fileID: 5960865650991195504, guid: bd52a7ae77c11cb4595ddee8a03d2bec, type: 3}
+    weightChance: 1
+  - title: Bread x1
+    item: {fileID: 8587842676530656546, guid: a4e9874bc1ff3cb48acc98fa1e39a53d, type: 3}
+    weightChance: 1
+  - title: Potato x1
+    item: {fileID: 3274146326663019638, guid: 35c1592ba1f92b04ca46eb5bf2020284, type: 3}
+    weightChance: 1
+  - title: Tomato x1
+    item: {fileID: 2255326976309380783, guid: c5239ce84d83e944fbb22a54545940e5, type: 3}
+    weightChance: 1
+  - title: BaggedPants2D x1
+    item: {fileID: 9151911415877294225, guid: 38d08306106e9de4ba04db1d8efbc98a, type: 3}
+    weightChance: 1
+  - title: Keds2D x1
+    item: {fileID: 7708664643442309388, guid: 573809878e0679647ac871d1bf8a6148, type: 3}
+    weightChance: 1
+  - title: Maika2D x1
+    item: {fileID: 8295586856200862953, guid: 9a8e005f876427c4491c89e79ac55859, type: 3}
+    weightChance: 1
+  - title: GreenTshir2D x1
+    item: {fileID: 3095805024570646612, guid: e70ca26ae9b256d4894daa79afc5e82c, type: 3}
+    weightChance: 1
+  fightChance: 0.187
+  fightChancesList:
+  - fightInfo: {fileID: 11400000, guid: 4692f961b4dd3174d831a38801aaa40a, type: 2}
+    weightChance: 1
+  eventChance: 0
+  eventChancesList: []

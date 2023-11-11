@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c73c94283b9401b97df2a11d9d26027, type: 3}
+  m_Name: Ofice
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 0}
+  locationName: "\u041E\u0444\u0438\u0441\u043D\u043E\u0435 \u0437\u0434\u0430\u043D\u0438\u0435"
+  lootChance: 1
+  lootChancesList:
+  - title: TableLamp x1
+    item: {fileID: 8196472313425375536, guid: 87894978b5b120c48b8981b047e355d6, type: 3}
+    weightChance: 1
+  - title: Tape x2
+    item: {fileID: 9221076599551373700, guid: b10b9553c7d3a7541a2f79aa4562a146, type: 3}
+    weightChance: 2
+  - title: Veshalka x2
+    item: {fileID: 3775947789782175138, guid: 73c10154e6911604f877dae57f1a7d7c, type: 3}
+    weightChance: 2
+  - title: Wire x2
+    item: {fileID: 9180225540668741947, guid: 51cd79419de33874fae4a9577bf7c350, type: 3}
+    weightChance: 2
+  - title: Lampochka x1
+    item: {fileID: 4809236453474312697, guid: 5cccba5d1e0d52b46a91807c3a82facc, type: 3}
+    weightChance: 1
+  - title: Kotelok x1
+    item: {fileID: 4195823844342778130, guid: 304535a63b18e384798e2fdbc0264cfa, type: 3}
+    weightChance: 1
+  - title: ClothPiece x1
+    item: {fileID: 2526125239938280815, guid: 547b866d349cc9d4a823649304b74718, type: 3}
+    weightChance: 1
+  - title: Salewa_2D x2
+    item: {fileID: 4042817467340585587, guid: b4793db83afa0114d97803e2fcf5bb38, type: 3}
+    weightChance: 2
+  - title: Tomato x3
+    item: {fileID: 2255326976309380783, guid: c5239ce84d83e944fbb22a54545940e5, type: 3}
+    weightChance: 3
+  - title: OpenedPork x3
+    item: {fileID: 932824923473513463, guid: 233b0b9ebb9973a46a0e53a22d109369, type: 3}
+    weightChance: 3
+  fightChance: 1
+  fightChancesList:
+  - fightInfo: {fileID: 11400000, guid: 4692f961b4dd3174d831a38801aaa40a, type: 2}
+    weightChance: 1
+  eventChance: 0
+  eventChancesList: []

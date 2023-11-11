@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2fb8ee40c8bbea244b877036d74355ac
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TriggerPrefab: {fileID: 1262801580376418478, guid: df47d4c2bd792474baf3c36565cfc19c, type: 3}
+  - NearestNode: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

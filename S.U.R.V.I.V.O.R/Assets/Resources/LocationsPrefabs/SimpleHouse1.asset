@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c73c94283b9401b97df2a11d9d26027, type: 3}
+  m_Name: SimpleHouse1
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 0}
+  locationName: "\u0414\u043E\u043C - \u0445\u0440\u0443\u0449\u0435\u0432\u043A\u0430"
+  lootChance: 1
+  lootChancesList:
+  - title: Lighter x1
+    item: {fileID: 1631529407478323801, guid: 7dfc23a3a95a82a498f8a0983c9e8f2d, type: 3}
+    weightChance: 1
+  - title: GoldenWatch x1
+    item: {fileID: 5227746115056900781, guid: e515cd76c7d262a44bf7a1af663ef107, type: 3}
+    weightChance: 1
+  - title: Kotelok x1
+    item: {fileID: 4195823844342778130, guid: 304535a63b18e384798e2fdbc0264cfa, type: 3}
+    weightChance: 1
+  - title: Odeyalo x1
+    item: {fileID: 1600767184302400738, guid: b556e762eed976f41b2cbcd8b7ea3e60, type: 3}
+    weightChance: 1
+  - title: Salewa_2D x1
+    item: {fileID: 4042817467340585587, guid: b4793db83afa0114d97803e2fcf5bb38, type: 3}
+    weightChance: 1
+  - title: BigMedkit x1
+    item: {fileID: 2604775963040676570, guid: b698c6079fdf87747bc52cb6b642497c, type: 3}
+    weightChance: 1
+  - title: Odeyalo x1
+    item: {fileID: 1600767184302400738, guid: b556e762eed976f41b2cbcd8b7ea3e60, type: 3}
+    weightChance: 1
+  - title: Axe2D x1
+    item: {fileID: 2309896335576601538, guid: efafba45898e1a0409d133af0c69e0a7, type: 3}
+    weightChance: 1
+  - title: Makarov2D x1
+    item: {fileID: 3139536823874620355, guid: b1283f7a15c8cad4eadb2ae7cebf2788, type: 3}
+    weightChance: 1
+  - title: 9x19PPBox x1
+    item: {fileID: 5452852868506880807, guid: c5b0087af3e7276439a67e60ac396cb0, type: 3}
+    weightChance: 1
+  - title: Makarov2D x1
+    item: {fileID: 3139536823874620355, guid: b1283f7a15c8cad4eadb2ae7cebf2788, type: 3}
+    weightChance: 1
+  fightChance: 0.147
+  fightChancesList:
+  - fightInfo: {fileID: 11400000, guid: 4692f961b4dd3174d831a38801aaa40a, type: 2}
+    weightChance: 1
+  eventChance: 0
+  eventChancesList: []

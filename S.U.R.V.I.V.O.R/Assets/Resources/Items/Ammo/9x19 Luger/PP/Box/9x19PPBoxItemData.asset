@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86c6575d931043aba537c27e7472d109, type: 3}
+  m_Name: 9x19PPBoxItemData
+  m_EditorClassIdentifier: 
+  itemName: "\u041A\u043E\u0440\u043E\u0431\u043A\u0430 \u043F\u0430\u0442\u0440\u043E\u043D\u043E\u0432
+    9\u044519 \u041F\u041F \u041B\u044E\u0433\u0435\u0440"
+  description: "\u041A\u043E\u0440\u043E\u0431\u043A\u0430 40 \u043F\u0430\u0442\u0440\u043E\u043D\u043E\u0432
+    \u043B\u044E\u0433\u0435\u0440"
+  size: {x: 2, y: 2}
+  weight: 0.5
+  icon: {fileID: 21300000, guid: 5d59a9220a22bb64c80a91dcd041bf1c, type: 3}
+  itemRarityType: 0

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86c6575d931043aba537c27e7472d109, type: 3}
+  m_Name: BreadBaseItemData
+  m_EditorClassIdentifier: 
+  itemName: "\u0425\u043B\u0435\u0431"
+  description: "\u041B\u0443\u0447\u0448\u0430\u044F \u0435\u0434\u0430 \u0432\u0441\u0435\u0445
+    \u0432\u0440\u0435\u043C\u0435\u043D \u0438 \u043D\u0430\u0440\u043E\u0434\u043E\u0432"
+  size: {x: 2, y: 1}
+  weight: 0.5
+  icon: {fileID: 21300000, guid: fd9c8bb65df1bc74a8ba18c9890084b6, type: 3}
+  itemRarityType: 1

@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c73c94283b9401b97df2a11d9d26027, type: 3}
+  m_Name: ItemsTest
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 0}
+  locationName: "\u041B\u043E\u043A\u0430\u0446\u0438\u044F \u0434\u043B\u044F \u0442\u0435\u0441\u0442\u0430
+    \u0432\u0435\u0449\u0435\u0439"
+  lootChance: 1
+  lootChancesList:
+  - title: Cactus x1
+    item: {fileID: 1064230413101838535, guid: 303e1373546d6f74787bb1ad330dcd97, type: 3}
+    weightChance: 1
+  - title: ClothPiece x1
+    item: {fileID: 2526125239938280815, guid: 547b866d349cc9d4a823649304b74718, type: 3}
+    weightChance: 1
+  - title: Cup x1
+    item: {fileID: 8002263663551922978, guid: 16a5678dbb1d1f445ba871934a9d1a81, type: 3}
+    weightChance: 1
+  - title: GoldenWatch x1
+    item: {fileID: 5227746115056900781, guid: e515cd76c7d262a44bf7a1af663ef107, type: 3}
+    weightChance: 1
+  - title: Kotelok x1
+    item: {fileID: 4195823844342778130, guid: 304535a63b18e384798e2fdbc0264cfa, type: 3}
+    weightChance: 1
+  - title: Lampochka x1
+    item: {fileID: 4809236453474312697, guid: 5cccba5d1e0d52b46a91807c3a82facc, type: 3}
+    weightChance: 1
+  - title: Lighter x1
+    item: {fileID: 1631529407478323801, guid: 7dfc23a3a95a82a498f8a0983c9e8f2d, type: 3}
+    weightChance: 1
+  - title: Matras x1
+    item: {fileID: 2409672275031097558, guid: a39b72e47efe32b4c9085ce0edc39692, type: 3}
+    weightChance: 1
+  - title: Odeyalo x1
+    item: {fileID: 1600767184302400738, guid: b556e762eed976f41b2cbcd8b7ea3e60, type: 3}
+    weightChance: 1
+  - title: Rope x1
+    item: {fileID: 6744938723625187723, guid: e5eee67adbea1a5439b087df32adfd13, type: 3}
+    weightChance: 1
+  - title: Scrap x1
+    item: {fileID: 3284722630197128691, guid: 5029a11932482974594abef04856a722, type: 3}
+    weightChance: 1
+  - title: Skovoroda x1
+    item: {fileID: 2415840867344266528, guid: 8baa77a7eea3e064ba4b9d7168a9e56a, type: 3}
+    weightChance: 1
+  - title: Spoon x1
+    item: {fileID: 2663577187711011961, guid: fb34a11261346c444954f2356b8057e5, type: 3}
+    weightChance: 1
+  - title: TableLamp x1
+    item: {fileID: 8196472313425375536, guid: 87894978b5b120c48b8981b047e355d6, type: 3}
+    weightChance: 1
+  - title: Veshalka x1
+    item: {fileID: 3775947789782175138, guid: 73c10154e6911604f877dae57f1a7d7c, type: 3}
+    weightChance: 1
+  - title: Wood x1
+    item: {fileID: 1149902572398785916, guid: 459dea3df3f4f164ab0de7691535d16d, type: 3}
+    weightChance: 1
+  fightChance: 0
+  fightChancesList: []
+  eventChance: 0
+  eventChancesList: []

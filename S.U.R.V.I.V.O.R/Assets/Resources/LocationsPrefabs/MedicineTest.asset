@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c73c94283b9401b97df2a11d9d26027, type: 3}
+  m_Name: MedicineTest
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 2388390418329069640, guid: e83739466e62f9640bbd337c7002d93e, type: 3}
+  locationName: "\u041C\u0435\u0434\u0438\u0446\u0438\u043D\u0441\u043A\u0430\u044F
+    \u043B\u043E\u043A\u0430\u0446\u0438\u044F"
+  lootChance: 1
+  lootChancesList:
+  - title: Bandage_2D x1
+    item: {fileID: 2691414175507087631, guid: f957be7fec7aa2345a9f2654b097d0ce, type: 3}
+    weightChance: 1
+  - title: BigMedkit x1
+    item: {fileID: 2604775963040676570, guid: b698c6079fdf87747bc52cb6b642497c, type: 3}
+    weightChance: 1
+  - title: BigSurgeonKit x1
+    item: {fileID: 1057343867869714774, guid: 7c9a69316aac980499c9c44f4e794a63, type: 3}
+    weightChance: 1
+  - title: Fizrastvor x1
+    item: {fileID: 3951160064819601126, guid: 816571671c189d74bb1abcc8bdd896ae, type: 3}
+    weightChance: 1
+  fightChance: 0
+  fightChancesList: []
+  eventChance: 0
+  eventChancesList: []

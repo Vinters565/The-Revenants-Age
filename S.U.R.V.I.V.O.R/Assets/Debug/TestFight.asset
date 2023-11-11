@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77bab787178849de9275a394b0c18818, type: 3}
+  m_Name: TestFight
+  m_EditorClassIdentifier: 
+  enemies:
+  - {fileID: 2540936202356646774, guid: 2fef517b195679f46849e8167f5ffd03, type: 3}
+  sceneName: 4

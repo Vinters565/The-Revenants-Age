@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c73c94283b9401b97df2a11d9d26027, type: 3}
+  m_Name: AZS
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 0}
+  locationName: "\u0410\u0417\u0421"
+  lootChance: 1
+  lootChancesList:
+  - title: Cup x1
+    item: {fileID: 8002263663551922978, guid: 16a5678dbb1d1f445ba871934a9d1a81, type: 3}
+    weightChance: 1
+  - title: Gear x1
+    item: {fileID: 6904275615824249859, guid: 028abd95f7c9c4e4fabac5d234ae512c, type: 3}
+    weightChance: 1
+  - title: Pin x1
+    item: {fileID: 1302194754429361200, guid: 027c045cacf54144f9b6e08e8e86b299, type: 3}
+    weightChance: 1
+  - title: Wood x1
+    item: {fileID: 1149902572398785916, guid: 459dea3df3f4f164ab0de7691535d16d, type: 3}
+    weightChance: 1
+  - title: Bread x1
+    item: {fileID: 8587842676530656546, guid: a4e9874bc1ff3cb48acc98fa1e39a53d, type: 3}
+    weightChance: 1
+  - title: Soda x1
+    item: {fileID: 9179908755023269077, guid: 940e0a2ff70ea5e4ca3823817ecc3899, type: 3}
+    weightChance: 1
+  - title: Heburek x1
+    item: {fileID: 7743761663454405961, guid: 069bd23ceb866f94883833dda5a79354, type: 3}
+    weightChance: 1
+  fightChance: 0.178
+  fightChancesList:
+  - fightInfo: {fileID: 11400000, guid: 4692f961b4dd3174d831a38801aaa40a, type: 2}
+    weightChance: 1
+  eventChance: 0
+  eventChancesList: []

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c73c94283b9401b97df2a11d9d26027, type: 3}
+  m_Name: Sklad
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 0}
+  locationName: "\u041F\u0440\u043E\u043C\u044B\u0448\u043B\u0435\u043D\u044B\u0439
+    \u0441\u043A\u043B\u0430\u0434"
+  lootChance: 1
+  lootChancesList:
+  - title: Wire x3
+    item: {fileID: 9180225540668741947, guid: 51cd79419de33874fae4a9577bf7c350, type: 3}
+    weightChance: 3
+  - title: Wood x3
+    item: {fileID: 1149902572398785916, guid: 459dea3df3f4f164ab0de7691535d16d, type: 3}
+    weightChance: 3
+  - title: Scrap x3
+    item: {fileID: 3284722630197128691, guid: 5029a11932482974594abef04856a722, type: 3}
+    weightChance: 3
+  fightChance: 0
+  fightChancesList:
+  - fightInfo: {fileID: 11400000, guid: 4692f961b4dd3174d831a38801aaa40a, type: 2}
+    weightChance: 1
+  eventChance: 0
+  eventChancesList: []

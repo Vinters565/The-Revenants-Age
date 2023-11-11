@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c73c94283b9401b97df2a11d9d26027, type: 3}
+  m_Name: Kazarma
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 0}
+  locationName: "\u0412\u043E\u0435\u043D\u043D\u044B\u0439 \u043E\u0431\u044A\u0435\u043A\u0442"
+  lootChance: 1
+  lootChancesList:
+  - title: Veshalka x1
+    item: {fileID: 3775947789782175138, guid: 73c10154e6911604f877dae57f1a7d7c, type: 3}
+    weightChance: 1
+  - title: Odeyalo x1
+    item: {fileID: 1600767184302400738, guid: b556e762eed976f41b2cbcd8b7ea3e60, type: 3}
+    weightChance: 1
+  - title: Lighter x1
+    item: {fileID: 1631529407478323801, guid: 7dfc23a3a95a82a498f8a0983c9e8f2d, type: 3}
+    weightChance: 1
+  - title: C9x18BoxTest x1
+    item: {fileID: 5452852868506880807, guid: 4461e4e1a7ab0f44a9b88cd6e086bc14, type: 3}
+    weightChance: 1
+  - title: C762Box x1
+    item: {fileID: 5452852868506880807, guid: 5155847aed94cbd4d995e87b1b5c119a, type: 3}
+    weightChance: 1
+  - title: 9x19PPBox x1
+    item: {fileID: 5452852868506880807, guid: c5b0087af3e7276439a67e60ac396cb0, type: 3}
+    weightChance: 1
+  - title: BaggedPants2D x1
+    item: {fileID: 9151911415877294225, guid: 38d08306106e9de4ba04db1d8efbc98a, type: 3}
+    weightChance: 1
+  - title: Ak-74M_Mag2D x1
+    item: {fileID: 3070652330605260061, guid: 89e67a7268ea4fb4c86c0cdb1aabae0a, type: 3}
+    weightChance: 1
+  - title: Ushanka2D x1
+    item: {fileID: 2015016746708106497, guid: 86bb509e5b4edb448824ced1ae7f7835, type: 3}
+    weightChance: 1
+  - title: Makarov2D x1
+    item: {fileID: 3139536823874620355, guid: b1283f7a15c8cad4eadb2ae7cebf2788, type: 3}
+    weightChance: 1
+  - title: Ak-74M2D x1
+    item: {fileID: 110642318115907268, guid: 0b8d92835dcd31544a2425f5a2302e00, type: 3}
+    weightChance: 1
+  - title: BigSurgeonKit x1
+    item: {fileID: 1057343867869714774, guid: 7c9a69316aac980499c9c44f4e794a63, type: 3}
+    weightChance: 1
+  - title: BigMedkit x1
+    item: {fileID: 2604775963040676570, guid: b698c6079fdf87747bc52cb6b642497c, type: 3}
+    weightChance: 1
+  - title: Fizrastvor x1
+    item: {fileID: 3951160064819601126, guid: 816571671c189d74bb1abcc8bdd896ae, type: 3}
+    weightChance: 1
+  - title: Salewa_2D x1
+    item: {fileID: 4042817467340585587, guid: b4793db83afa0114d97803e2fcf5bb38, type: 3}
+    weightChance: 1
+  - title: GreeenSyringe x1
+    item: {fileID: 3314038558550581518, guid: 802e3318c45bda1429de16db5a12cb94, type: 3}
+    weightChance: 1
+  fightChance: 0
+  fightChancesList: []
+  eventChance: 0
+  eventChancesList: []
